@@ -9,9 +9,9 @@ For instance, the right side of the keyboard may produce numbers instead of expe
 
 ## How to Use
 Run the Script: This script requires you to input your username, it will then change the NumLock setting for the user. You can run the script by opening a terminal and typing:
-./keyboard_config.sh
+./Apple-KBD.sh
 Then enter your username when prompted. Note: You may need to give the script execution permissions before you can run it. This can be done using the following command:
-chmod +x keyboard_config.sh
+chmod +x Apple-KBD.sh
 Reboot your System: After running the script, reboot your system. The changes will take effect upon logging back in.
 
 ## Requirements
